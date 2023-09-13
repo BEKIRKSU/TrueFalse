@@ -9,7 +9,7 @@ user_1 = User("001", "Bekir")
 # instead of below, check what's above this line.
 # user_1.id = "007"
 # user_1.username = "Name"
-print(user_1)
-
+print(user_1.username)
+# When printing be specific.
 
 # this prints the id
