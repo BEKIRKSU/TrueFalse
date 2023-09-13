@@ -5,3 +5,6 @@ class User:
 user_1 = User()
 user_1.id = "007"
 user_1.username = "Name"
+
+print(user_1.id)
+# this prints the id
