@@ -12,4 +12,6 @@ user_1 = User("001", "Bekir")
 print(user_1.username)
 # When printing be specific.
 
+user_1 = User("007", "Bekir")
+
 # this prints the id
