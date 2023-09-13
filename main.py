@@ -23,5 +23,7 @@ print(user_1.follower)
 # This will print '0' although it's not an argument in the initializer. Because the class has a set
 # attribute.
 
+#  attributes and methods. Methods are used to possibly change the attributes.
+# So we'll have a function inside a class (it's called a method when this is the case)
 
 # this prints the id
